@@ -3,6 +3,9 @@
 
 
 
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Description:
 
@@ -28,6 +31,9 @@ A: They influence other viewers' decisions to watch the movie, increasing its po
 Report and Data Story: After your analysis, you'll create a report that tells a story with your data. This should include your initial problem, your findings, and the insights you've gained. Use visualizations to help tell your story and make your findings more understandable.
 
 Remember, as a data analyst, your goal is not just to answer questions but to provide insights that can drive decision-making. Your analysis should aim to provide actionable insights that can help stakeholders make informed decisions.
+
+
+
 
 
 

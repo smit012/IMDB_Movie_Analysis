@@ -1,10 +1,7 @@
 # IMDB_Movie_Analysis
 #### Excel
 
-
-
-
-
+<br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Description:
@@ -32,11 +29,7 @@ Report and Data Story: After your analysis, you'll create a report that tells a 
 
 Remember, as a data analyst, your goal is not just to answer questions but to provide insights that can drive decision-making. Your analysis should aim to provide actionable insights that can help stakeholders make informed decisions.
 
-
-
-
-
-
+<BR>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -72,3 +65,14 @@ _**E. Budget Analysis:**_ Explore the relationship between movie budgets and the
 
 Task: Analyze the correlation between movie budgets and gross earnings, and identify the movies with the highest profit margin.
 Hint: Calculate the correlation coefficient between movie budgets and gross earnings using Excel's CORREL function. Calculate the profit margin (gross earnings - budget) for each movie and identify the movies with the highest profit margin using Excel's MAX function.
+
+<BR>
+<HR>
+
+## Data-set:
+
+LINK : https://drive.google.com/file/d/1XpGThHzLnXxL_7aQo2sCpYL3SeB18MMB/view?usp=sharing
+
+<br>
+<hr>
+
